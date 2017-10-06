@@ -1,2 +1,2 @@
 # IntroductionToCSS
-Introduction To C SS
+Introduction To CSS
